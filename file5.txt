@@ -1,1 +1,3 @@
 thsi lab through cli
+
+hi hello waster fellow
